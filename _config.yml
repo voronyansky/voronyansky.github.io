@@ -9,7 +9,7 @@ name: Egor Voronyansky
 description: Junior Java Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://static.sched.org/a4/1652261/avatar.jpg.320x320px.jpg?0fd
+avatar:
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: http://static.sched.org/a4/1652261/avatar.jpg.320x320px.jpg?0fd
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:voronyansky.egor@yandex.ru
+  email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:voronyansky
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: VoronyanskyE
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
